@@ -29,7 +29,7 @@ export const headerItems: NavItems = {
   projects: { label: "Projects", page: "projects" },
 };
 
-export const projects = {
+export const projects= {
   passwordGenerater: {
     image: "https://i.ibb.co/Qkb4TDR/password-generator.png",
     link: "https://password-generatorbymuhammadraheem.vercel.app/",

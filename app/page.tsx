@@ -1,4 +1,4 @@
-import Header from "./components/header";
+
 import Main from "./pages/Main";
 
 
